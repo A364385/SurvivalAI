@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "survivalai"
+version = "0.2.0"
+description = "Autonomous agent system for generational market survival and paper trading"
+authors = ["SurvivalAI Team"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

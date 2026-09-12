@@ -1,0 +1,2 @@
+# SurvivalAI Requirements
+# Core uses Python stdlib dataclasses, urllib, unittest
